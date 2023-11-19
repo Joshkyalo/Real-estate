@@ -1,0 +1,86 @@
+{
+    "num_found": 7983205,
+    "total_cost": 1,
+    "records": [
+      {
+        "address": "711 Kent Ave",
+        "brokers": [
+          {
+            "agent": "Raj Singh",
+            "company": "YOUR REALTY INC.",
+            "dateSeen": [
+              "2016-06-06T18:09:28Z"
+            ],
+          }
+        ],
+        "city": "Catonsville",
+        "country": "US",
+        "dateAdded": "2016-06-06T18:09:28Z",
+        "features": [
+          {
+            "key": "Air Conditioning",
+            "value": [
+              "Heat Pumps"
+            ]
+          },
+          {
+            "key": "Sewer Type",
+            "value": [
+              "Public"
+            ]
+          }
+        ],
+        "latitude": "39.284462",
+        "listingName": "711 Kent Ave, Catonsville, Md 21228",
+        "longitude": "-76.734069",
+        "lotSizeValue": 0.16,
+        "lotSizeUnit": "Acres",
+        "mlsNumber": "BC9677283",
+        "numBathroom": 2,
+        "numBedroom": 4,
+        "postalCode": "21228",
+        "prices": [
+          {
+            "amountMax": 199900,
+            "amountMin": 199900,
+            "currency": "USD",
+            "dateSeen": [
+              "2016-08-08T00:00:00Z",
+              "2016-08-03T00:00:00Z"
+            ],
+            "isSale": "false",
+          },
+          {
+            "amountMax": 212000,
+            "amountMin": 212000,
+            "currency": "USD",
+            "dateSeen": [
+              "2016-06-06T00:00:00Z"
+            ],
+            "isSale": "false",
+          }
+        ],
+        "propertyTaxes": [
+          {
+            "amount": 3195,
+            "currency": "USD",
+            "dateSeen": [
+              "2016-06-06T18:09:28Z"
+            ],
+          }
+        ],
+        "propertyType": "Single Family Dwelling",
+        "province": "MD",
+        "statuses": [
+          {
+            "dateSeen": [
+              "2016-08-09T09:16:10Z"
+            ],
+            "isUnderContract": "false",
+            "type": "For Sale"
+          }
+        ],
+        "id": "AV9WzHyO_RWkykBuv11F"
+      }
+    ]
+  

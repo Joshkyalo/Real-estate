@@ -1,0 +1,38 @@
+{
+  "name": "new-prop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "algoliasearch": "^4.20.0",
+    "core-js": "^3.8.3",
+    "firebase": "^10.6.0",
+    "instantsearch.js": "^4.60.0",
+    "roboto-fontface": "*",
+    "vue": "^3.2.13",
+    "vue-instantsearch": "^4.12.1",
+    "vue-router": "^4.2.5",
+    "vue-stepper": "^1.0.11",
+    "vue-template-compiler": "^2.7.15",
+    "vuetify": "^3.4.1",
+    "webfontloader": "^1.6.28"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "^5.0.8",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "webpack-plugin-vuetify": "^2.0.0-alpha.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
